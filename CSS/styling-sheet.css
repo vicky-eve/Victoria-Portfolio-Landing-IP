@@ -2,3 +2,8 @@
     width:0.5px;
     height:auto;
 }
+.name-heading {
+    font-weight: 600;
+    text-decoration-color: blueviolet;
+    text-emphasis-style: initial;
+}
