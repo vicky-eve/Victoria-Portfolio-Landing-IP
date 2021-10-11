@@ -7,8 +7,8 @@ This is my first independent project at Moringa School. It involves writing abou
 #### Project Set up Instructions
 
 Programming languages used:
-# HTML
-## CSS(Bootstrap)
+HTML
+CSS(Bootstrap)
 
 Set up instructions
   ~Clone this repository to a location in your file system 
