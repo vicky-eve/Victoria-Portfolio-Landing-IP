@@ -25,6 +25,6 @@ cd Victoria Portfolio Landing!
 * Open index.html on your browser
 
 ##### Link to live site on GitHub page
-[https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/deployments/activity_log?environment=github-pages](https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/deployments/activity_log?environment=github-pages)
+[https://vicky-eve.github.io/Victoria-Portfolio-Landing-IP/](https://vicky-eve.github.io/Victoria-Portfolio-Landing-IP/)
 
 
