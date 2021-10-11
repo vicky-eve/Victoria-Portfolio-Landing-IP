@@ -11,10 +11,10 @@ Programming languages used:
 ## CSS(Bootstrap)
 
 Set up instructions
-  -Clone this repository to a location in your file system 
-  -https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/blob/master/index.html
-  -Open terminal command line then navigate to the root folder of the application <cd Victoria Portfolio Landing!>
-  -Open index.html on your browser
+  ~Clone this repository to a location in your file system 
+  ~https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/blob/master/index.html
+  ~Open terminal command line then navigate to the root folder of the application <cd Victoria Portfolio Landing!>
+  ~Open index.html on your browser
 
 ##### Link to live site on GitHub page
 https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/tree/gh-pages
