@@ -1,15 +1,14 @@
-.img-resize {
-    width:0.5px;
-    height:auto;
+img {
+    width: 200px;
+    height: 200PX;
 }
 .name-heading {
     font-weight: 600;
-    text-decoration-color: blueviolet;
+    text-decoration-color: rgb(43, 61, 226);
     text-emphasis-style: initial;
 }
-.margt{
-    margin-top: 20px;
-}
+
 .name-heading2{
     font-weight: 200;
 }
+
