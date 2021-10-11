@@ -17,6 +17,6 @@ Set up instructions
   ~Open index.html on your browser
 
 ##### Link to live site on GitHub page
-https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/tree/gh-pages
+https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/deployments/activity_log?environment=github-pages
 
 
