@@ -14,12 +14,6 @@ Programming languages used:
 - CSS(Bootstrap)
 
 Set up instructions
-<<<<<<< HEAD
-    ~Clone this repository to a location in your file system 
-    ~https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/blob/master/index.html
-    ~Open terminal command line then navigate to the root folder of the application <cd Victoria Portfolio Landing!>
-    ~Open index.html on your browser
-=======
 * Clone this repository to a location in your file system using your terminal or cmd
 ```
 git clone https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/blob/master/index.html
@@ -29,7 +23,6 @@ git clone https://github.com/vicky-eve/Victoria-Portfolio-Landing-IP/blob/master
 cd Victoria Portfolio Landing!
 ```
 * Open index.html on your browser
->>>>>>> 9b5e40f9d1765c9b1b0eb7916f2c55532a29e997
 
 ##### Link to live site on GitHub page
 [https://vicky-eve.github.io/Victoria-Portfolio-Landing-IP/](https://vicky-eve.github.io/Victoria-Portfolio-Landing-IP/)
