@@ -1,0 +1,21 @@
+<<<<<<< Updated upstream
+=======
+img {
+    width: 200px;
+    height: 200PX;
+}
+.name-heading {
+    font-weight: 600;
+    text-decoration-color: rgb(43, 61, 226);
+    text-emphasis-style: initial;
+    text-emphasis-color: blue;
+}
+
+.name-heading2{
+    font-weight: 200;
+}
+h1{
+    font-style: italic;
+}
+
+>>>>>>> Stashed changes
